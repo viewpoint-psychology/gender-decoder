@@ -131,8 +131,8 @@ explanations = {
                         "are stereotypically feminine than words that are "
                         "stereotypically masculine. Fortunately, the research "
                         "suggests this will have only a slight effect on how "
-                        "appealing the job is to men, and will encourage women"
-                        " applicants."),
+                        "appealing the job is to men, and will encourage women "
+                        "applicants."),
     "masculine-coded": ("This job ad uses more words that "
                         "are stereotypically masculine than words that are "
                         "stereotypically feminine. It risks putting women off "
